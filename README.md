@@ -1,6 +1,6 @@
-# Link In Bio
+# Profile Links
 
-A link in bio site for instagram/twitter, etc
+Profile links for social media (Github, Instagram, LinkedIn, etc)
 
 You can view this code at | Você pode ver esse código em:
-https://ohiagosouza.github.io/Linkinbio/
+https://links.ohiagosouza.com/
